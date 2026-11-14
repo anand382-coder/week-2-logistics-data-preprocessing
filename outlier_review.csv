@@ -1,0 +1,7 @@
+Order_ID,Shipment_Date,Delivery_Date,Transport_Mode,Shipping_Cost_INR,Delivery_Time_Days,Distance_KM,Shipment_Status
+ORD1003,2026-10-03,2026-10-08,Air,3200.0,5,850,Delivered
+ORD1007,2026-10-07,2026-10-12,Air,3500.0,5,920,Delivered
+ORD1015,2026-10-15,2026-10-20,Air,3400.0,5,890,Delivered
+ORD1019,2026-10-19,2026-10-25,Air,3600.0,6,950,Delayed
+ORD1024,2026-10-24,2026-10-29,Air,3450.0,5,900,Delivered
+ORD1025,2026-10-25,2026-11-20,Road,50000.0,26,20000,Delayed
